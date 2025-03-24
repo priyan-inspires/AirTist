@@ -33,7 +33,7 @@
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/YOUR_USERNAME/AirTist.git
+    git clone https://github.com/priyan-inspires/AirTist.git
     cd AirTist
     ```
 
